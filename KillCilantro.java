@@ -1,19 +1,18 @@
 public class KillCilantro {
-   public static void main(String[] args) {
-      
-      new String = "Cilantro";
-      new String cilantro = " ";
-      new String parsley = " ";
-      }
-      public static class KillCilantro {
-      if (String.substring = "Cilantro")
+   public static void killCilantro() {
+      for (int i = 0; i < 3; i++)
       {
       System.out.println("Parsley");
       }
-      System.out.println("Cilantro")
+      }
+   public static void main(String[] args) {
+   
       
+      killCilantro();
       
-    }
+  
+  }
+      
     
 }
  
